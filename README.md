@@ -1,2 +1,2 @@
-- 👋 Hi, I’m Yeasir Arafat
-- 👀 I’m interested in Laravel and VueJS
+- I’m Yeasir Arafat
+- Working with Laravel and VueJS
